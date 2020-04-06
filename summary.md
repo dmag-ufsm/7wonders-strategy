@@ -108,7 +108,7 @@ guide. I'll just summarize the general strategy below:
     * 4. GIZAH (B)
 
 #### EPHESOS (P. 33)
-->Regular supply of money and the low resources needed to unlock the stages.
+->Regular supply of money and low resources needed to unlock the stages.
 * If you go military, you probably won’t have time to fetch any other science card than the free Tablet.
 * If no one builds science
     * Take the blue cards first and finish the ages with the tablets (after you took the red cards).
@@ -124,4 +124,19 @@ guide. I'll just summarize the general strategy below:
 * Remember that the monopoly of one resource can be good, Pistoleiro give an example that you are in the 1 age, and you have to choose between Baths and wood, you already have a |stone / wood| so if you pick the wood you will have the monopoly of wood and this is the best option in this case, it also goes well with the Age 2 red card that uses 2 wood (in this strategy is good evoid that your neighbors build the Trading Post).
 
 #### ALEXANDRIA (P. 50)
-* . . .
+->Is a strong wonder since it allows you to have access to all resources very easily. (you can choose your strategy)
+* Age 1
+	* Is important to play **1 Clay** card and unlock the first stage
+* Age 2
+	* You need build the **second stage** in this age to stach red or green cards
+* Weakness - you can be tempted to rush your 3rd step from Age 2, because you’re behind in points, only do it if your last hand is a resource that you don’t need, as stashing in Age 3 is really important to control science or military.
+*In science strategy
+    * He discard the |Stone / Wood| card to prevent that his neighbors use it, pick a Textile to help build science and stash the Stone that Gizah needed to build the second stage, so it’s very important to follow your neighbors steps
+    * He use the MarketPlace to buy cheaper from his neighbors
+*Military strategy
+	* He uses both Trading Post
+* Sometimes it’s tempting to stash a red card to prevent the neighbor from getting an advantage, but you have to think what is the best play, for example Pistoleiro chooses to pick a Stone to help build the Wall and the 3rd stage than stash the red card.
+
+#### BABYLON (P. 61)
+*...
+
