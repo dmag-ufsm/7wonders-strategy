@@ -129,7 +129,7 @@ guide. I'll just summarize the general strategy below:
 	* Is important to play **1 Clay** card and unlock the first stage
 * Age 2
 	* You need build the **second stage** in this age to stach red or green cards
-* Weakness - you can be tempted to rush your 3rd step from Age 2, because you’re behind in points, only do it if your last hand is a resource that you don’t need, as stashing in Age 3 is really important to control science or military.
+	* Weakness - you can be tempted to rush your 3rd step from Age 2, because you’re behind in points, only do it if your last hand is a resource that you don’t need, as stashing in Age 3 is really important to control science or military.
 * Science strategy
     * He discard the |Stone / Wood| card to prevent that his neighbors use it, pick a Textile to help build science and stash the Stone that Gizah needed to build the second stage, so it’s very important to follow your neighbors steps
     * He use the MarketPlace to buy cheaper from his neighbors
