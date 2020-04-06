@@ -130,10 +130,10 @@ guide. I'll just summarize the general strategy below:
 * Age 2
 	* You need build the **second stage** in this age to stach red or green cards
 * Weakness - you can be tempted to rush your 3rd step from Age 2, because you’re behind in points, only do it if your last hand is a resource that you don’t need, as stashing in Age 3 is really important to control science or military.
-*In science strategy
+* Science strategy
     * He discard the |Stone / Wood| card to prevent that his neighbors use it, pick a Textile to help build science and stash the Stone that Gizah needed to build the second stage, so it’s very important to follow your neighbors steps
     * He use the MarketPlace to buy cheaper from his neighbors
-*Military strategy
+* Military strategy
 	* He uses both Trading Post
 * Sometimes it’s tempting to stash a red card to prevent the neighbor from getting an advantage, but you have to think what is the best play, for example Pistoleiro chooses to pick a Stone to help build the Wall and the 3rd stage than stash the red card.
 
