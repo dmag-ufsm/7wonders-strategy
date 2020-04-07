@@ -137,6 +137,19 @@ guide. I'll just summarize the general strategy below:
 	* He uses both Trading Post
 * Sometimes it’s tempting to stash a red card to prevent the neighbor from getting an advantage, but you have to think what is the best play, for example Pistoleiro chooses to pick a Stone to help build the Wall and the 3rd stage than stash the red card.
 
-#### BABYLON (P. 61)
-*...
+#### BABYLON (P. 61) - more difficult
+->To have a chance to win, you must play science, you have to balance the science and military based on your neighbors hand
+* General rule = **“no rush”**
+* Science
+	* You have to play some science to maximize the potential of the **3rd step** (that gives to you a free science)
+* Military
+	* It’s more important to build brown cards as they allow you to build the military cards and the Age 3
+* Age 2
+	* You don’t need to dominate in age 1, but you will need in age 2
+	* Begin the age 2 without money is not good
+*  **Paper** is more important than Glass
+* 2 Stone can be a good card as it allows to try to pick some cards like: Wall | Tablet | Compass
+* Monopoly of the wood can be a good play as well
+* It’s important to keep one stage available to stash the 3rd red card at the last turn
 
+#### RHODES (P. 85) 
