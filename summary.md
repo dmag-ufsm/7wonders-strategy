@@ -135,7 +135,7 @@ guide. I'll just summarize the general strategy below:
     * He use the MarketPlace to buy cheaper from his neighbors
 * Military strategy
 	* He uses both Trading Post
-* Sometimes it’s tempting to stash a red card to prevent the neighbor from getting an advantage, but you have to think what is the best play, for example Pistoleiro chooses to pick a Stone to help build the Wall and the 3rd stage than stash the red card.
+* Sometimes it’s tempting to stash a red card to prevent the neighbor from getting an advantage, but you have to think what is the best play, for example Pistoleiro chooses to pick a Stone to help build the Wall and the 3rd stage than stash the red card
 
 #### BABYLON (P. 61) - more difficult
 ->To have a chance to win, you must play science, you have to balance the science and military based on your neighbors hand
@@ -158,25 +158,36 @@ guide. I'll just summarize the general strategy below:
 	* You have to **win the 2nd**  battle
 	* You have to balance the red cards, it’s not good not choose red cards wisely, because if you have one card that fits better in your strategy you can earn more points, the situation that pistoleiro shows is: In age 3 Rhodes are dominating military with 1 shield of difference, he choose pick a +3 shield, but it’s a bad move because it was better if he picks de +7 Pantheon
 	* The lesson is that it’s not because you’re Rhodes that you need to absolutely get those
-shields during Age 1. Focus on enabling access to resources so that your Age 2 is more efficient.
-	* The lesson now is how playing one science card instead of going full military (typically when pitted against Hali or Babylon), helps you weaken the science player throughout the game.
-	* It’s possible to mix military and scientific strategy and this can be very good.
+shields during Age 1. Focus on enabling access to resources so that your Age 2 is more efficient
+	* The lesson now is how playing one science card instead of going full military (typically when pitted against Hali or Babylon), helps you weaken the science player throughout the game
+	* It’s possible to mix military and scientific strategy and this can be very good
 * Age 1
 	* If Gizah is present, take the **1x Stone** and try to point a **Trading Post** in Gizah’s direction
 	* Instead of the 2nd red card, you manage to pick something useful (Don’t exchange the red card for a 2-point card)
 	* don’t put yourself in danger to get a red card
-	* When you and the left player have one shield, and you receive the third shield card, watch if the right player can build it easily. It can be great to let him have it and hope that all of you each take one red card in Age 2.
+	* When you and the left player have one shield, and you receive the third shield card, watch if the right player can build it easily. It can be great to let him have it and hope that all of you each take one red card in Age 2
 * Age 2
 	* If Gizah isn’t present, don’t pick the 1x Stone, and wait for Age 2 to build the 2x Stone
 	* Science might be a way out of the game if Age 2 turns bad
 	* keep a good amount of money for all the buys needed
 * Age 3
-	* Be aware when one red card in Age 3 from both opponents could shift you from leader to loser.
-	* Taking 2 red cards Age 3 can be effective if done correctly and with reasoning.
+	* Be aware when one red card in Age 3 from both opponents could shift you from leader to loser
+	* Taking 2 red cards Age 3 can be effective if done correctly and with reasoning
 * **Caravansery** is a good card, but never count on receiving it
 * The **Haven** is a very strong card when you need to leverage a lot of brown cards and need a refill on money.
 * The **Hero Guild** is worth more, but it’s important to keep at least 2 gold to perform the first stage if nothing is playable
 
-#### GIZAH (P. 108) 
+#### GIZAH (P. 108)
+->Pistoleiro hate this wonder
+* Focus your second Age on the red cards and win the game (in the most of the time is better just build the first and the second stage, and maybe the third)
+* Gizah reaches its full potential when you play its last three steps during Age 3 and stash valuable cards for your opponents
+* If you had the time to unlock your stages early, why didn’t you pick the red and blue cards?
+* Apart from Paper , you can freely ignore the gray resources and get a lot of brown resources
+* Just be sure you can pay for Textile to play the Haven
+* Age 3
+	* We want to keep the stages free for Age 3
+* **Trading Post** can be a good play and allows forum for free
+
+#### OLYMPIA (P. 122) 
 *...
 
