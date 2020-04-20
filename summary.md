@@ -188,6 +188,17 @@ shields during Age 1. Focus on enabling access to resources so that your Age 2 i
 	* We want to keep the stages free for Age 3
 * **Trading Post** can be a good play and allows forum for free
 
-#### OLYMPIA (P. 122) 
-*...
+#### OLYMPIA (P. 122)
+->Pistoleiro prefers A side, but the other side it’s good too
+* **Textile** it’s a good card since unlock your 3rd stage (if you are playing B side)
+* Military
+	* You have be careful for not start the age 2 without money because you make your 1st stage
+* **Trading Post** continues a good card for military because you need a lot of brown resources for military strategy
+* Some strategies utilize science strategy with military, if you pick textile you can get the compass and get a free chain to the red card Stables
+* Science comes after the 2nd war
+* The Townhall, Senate and Gardens, are very good cards to pick when you didn’t invest on grey resources earlier in the game
+* Age 1
+	*Blue card are an trap (you should consider sell or use for build the wonder)
 
+#### HALIKARNASSOS  (P. 142) 
+*...
