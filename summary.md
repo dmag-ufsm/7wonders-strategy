@@ -200,5 +200,21 @@ shields during Age 1. Focus on enabling access to resources so that your Age 2 i
 * Age 1
 	*Blue card are an trap (you should consider sell or use for build the wonder)
 
-#### HALIKARNASSOS  (P. 142) 
-*...
+#### HALIKARNASSOS (P. 142)
+* Most players  (including Pistoleiro) keep the first stage for the end of Age 2, and the second stage for the end of Age 3
+* **2x Clay** is a good card to play because helps to unlock your 2nd stage
+* Pick the **Trading Post** is never a bad move
+* Military 
+	* You can change the mad scientist strategy in the beginning of the age 2 for a “green-to-red” strategy
+	* Caravansery is a good card for military strategy since allows access to brown resources that you need to build shields and for the wonders in this case
+	* He reaffirms that you don’t have to win the 1st war, but you have to win the 2nd war
+	* **“When I say it’s important to finish military leader at the end of Age 2, I mean it’s important to have at least one more shield at the beginning of Age 3. With Rhodes, it’s a bit different, because Rhodes can produce shields during the Age”.**
+* Science 
+	* Hali is super strong since it can build the Compass for free: discard one science card for 3 gold, pay 2 gold to build the last science card and then use stage 1 to bring the discarded card. First set completed
+* Age 1
+	* The card **1x_Ore/1x_Clay** fits perfectly with Hali wonders
+* Age 2
+	* The 2x Stone is a good card because helps build the Wall (3x Stone) and allows you freely build the tablet with the resource that your wonder provides
+* Age 3
+	* Glass and Wood -> two essential resources for Age 3 (Wood fits perfectly with Haven)
+
